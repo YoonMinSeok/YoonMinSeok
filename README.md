@@ -37,19 +37,13 @@
  ![Redux Badge](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white)
  ![Next Badge](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white)
  ![styled-components Badge](https://img.shields.io/badge/Styled_Components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
- ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
- ![Vue Badge](https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white)
- ![Nuxt Badge](https://img.shields.io/badge/Nuxt.js-00C58E?style=flat-square&logo=Nuxt.js&logoColor=white)
  ![Sass Badge](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=Sass&logoColor=white)
- ![Vuetify Badge](https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white)
  
  🎸 etc
  
  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
  ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
- ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
  ![Jira%20Software Badge](https://img.shields.io/badge/Jira%20Software-0052CC?style=flat-square&logo=Jira%20Software&logoColor=white)
- ![Confluence Badge](https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white)
  ![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
  ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
  
