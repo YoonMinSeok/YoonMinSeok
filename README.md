@@ -10,15 +10,15 @@
 
 ## Contact
 
-📞 : +82 10-5217-5646
+📞 : +82 10-2548-9276
 
-📩 : bung1438@gmail.com
+📩 : ykmvm147@naver.com
 
-🎓 : [Kumoh National Institute of Technology](https://www.kumoh.ac.kr/ko/index.do)
+🎓 : [Ulsan College](https://www.uc.ac.kr)
 
 🏢 : [PREF](http://www.prefinc.com/main/index)
 
-🧑 : [Portfolio](https://gunwoongpark.github.io/portfolio/)
+🧑 : [Portfolio](https://yoonminseok.github.io/PortFolio/Main)
 
 <br/>
 
@@ -53,6 +53,6 @@
  ![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
  ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
  
- [![gunwoongPark's GitHub stats](https://github-readme-stats.vercel.app/api?username=gunwoongPark&show_icons=true&theme=react)](https://github.com/gunwoongPark)
+ [![YoonMinSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoonMinSeok&show_icons=true&theme=react)](https://github.com/YoonMinSeok)
  
 </div>
