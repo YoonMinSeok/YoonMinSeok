@@ -1,8 +1,8 @@
 ## Front-End Developer
 
-눈앞에 보이는 웹을 구현하는 것에 흥미를 느껴 유능한 프론트 엔드 개발자가 되기 위해 쉬지 않고 배우고 있습니다.
+새로운 것에 도전하고 실패를 무서워 하지 않는 개발자가 되도록 노력하고 있습니다.
 
-빠르게 변화하는 트렌드와 발전하는 기술에 적응하는 더 좋은 개발자가 되기 위해 항상 노력하고 있습니다.
+블로그 및 깃허브에 꾸준히 올리는 것을 목표로 꾸준히 발전해 나아가는 개발자가 되겠습니다
 
 
 <br/>
@@ -17,7 +17,7 @@
 
 🏢 : [PREF](http://www.prefinc.com/main/index)
 
-🧑 : [Portfolio](https://yoonminseok.github.io/PortFolio/Main)
+🧑 : [Velog](https://velog.io/@minseok_yun)
 
 <br/>
 
