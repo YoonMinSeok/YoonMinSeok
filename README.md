@@ -39,7 +39,6 @@
  🎸 etc
  
  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
- ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black)
  ![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
  ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
  
