@@ -9,16 +9,13 @@
 
 ## Contact
 
-📞 : +82 10-2548-9276
-
 📩 : ykmvm147@naver.com
-
-🎓 : [Ulsan College](https://www.uc.ac.kr)
 
 🏢 : [PREF](http://www.prefinc.com/main/index)
 
 🧑 : [Velog](https://velog.io/@minseok_yun)
 
+     [NPM](https://www.npmjs.com/~yunminseok)
 <br/>
 
 ## Dev Stack
