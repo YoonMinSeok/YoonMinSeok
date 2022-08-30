@@ -15,7 +15,7 @@
 
 🧑 : [Velog](https://velog.io/@minseok_yun)
 
-     [NPM](https://www.npmjs.com/~yunminseok)
+🧑 : [NPM](https://www.npmjs.com/~yunminseok)
 <br/>
 
 ## Dev Stack
