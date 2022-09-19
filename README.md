@@ -11,7 +11,7 @@
 
 📩 : ykmvm147@naver.com
 
-🏢 : [PREF](http://www.prefinc.com/main/index)
+🏢 : looking for a job
 
 🧑 : [Velog](https://velog.io/@minseok_yun)
 
