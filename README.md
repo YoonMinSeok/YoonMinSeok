@@ -13,7 +13,7 @@
 
 📩 : ykmvm147@naver.com
 
-🏢 : looking for a job
+<!-- 🏢 : looking for a job -->
 
 🧑 : [Velog](https://velog.io/@minseok_yun)
 
