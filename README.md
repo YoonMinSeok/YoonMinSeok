@@ -40,6 +40,7 @@
  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
  ![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white)
  ![Slack Badge](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white)
+ ![Jira Badge](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white)
  
  [![YunMinSeok's GitHub stats](https://github-readme-stats.vercel.app/api?username=YunMinSeok&show_icons=true&theme=react)](https://github.com/YunMinSeok)
  
